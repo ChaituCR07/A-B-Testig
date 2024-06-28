@@ -1,4 +1,5 @@
 ![image](https://github.com/ChaituCR07/A-B-Testig/assets/83352020/dd27f253-c7e4-4d1b-9149-212821143ecb)
+
 What is A/B Testing?
 
 It is comparing two versions of a product and for example, comparing the older and newer versions of a mobile device.
